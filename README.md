@@ -1,4 +1,4 @@
-# Udacity-CVND-P1---Facial-Keypoint-Detection
+# Udacity-P1-Facial-Keypoint-Detection
 
 Github link: https://github.com/praneethnarisetty/Udacity-P1-Facial-Keypoint-Detection/ This is a micro-service use to process an image.
 ## Github link
