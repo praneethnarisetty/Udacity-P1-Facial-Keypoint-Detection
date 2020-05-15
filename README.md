@@ -1,8 +1,8 @@
 # Udacity-CVND-P1---Facial-Keypoint-Detection
 
-Github link: https://github.com/praneethnarisetty/udagram-image-filter This is a micro-service use to process an image.
+Github link: https://github.com/praneethnarisetty/Udacity-P1-Facial-Keypoint-Detection/ This is a micro-service use to process an image.
 ## Github link
-https://github.com/praneethnarisetty/udagram-image-filter
+https://github.com/praneethnarisetty/Udacity-P1-Facial-Keypoint-Detection/
 First Project of Computer Vision Nanodegree by Udacity . Detection of Facial Keypoints
 
 The github repository of Udacity for this project is https://github.com/udacity/P1_Facial_Keypoints 
