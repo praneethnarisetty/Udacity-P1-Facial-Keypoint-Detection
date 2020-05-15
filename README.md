@@ -1,5 +1,5 @@
 # Udacity-CVND-P1---Facial-Keypoint-Detection
-[![Udacity Computer Vision Nanodegree](http://tugan0329.bitbucket.io/imgs/github/cvnd.svg)](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
+
 Github link: https://github.com/praneethnarisetty/udagram-image-filter This is a micro-service use to process an image.
 ## Github link
 https://github.com/praneethnarisetty/udagram-image-filter
